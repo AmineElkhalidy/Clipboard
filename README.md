@@ -4,3 +4,5 @@ It's a simple landing page, developed using the following technologies:
 
 - HTML5
 - Tailwind CSS
+
+![](./images/clipboard.png)
